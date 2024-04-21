@@ -1,2 +1,2 @@
-# TELECOM-CHURN-PREDICTION
-telecom churn prediction
+# TELECOM-CHURN-PREDICTION USING ANN
+first attempt : 74% accuracy 
